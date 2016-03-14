@@ -1,3 +1,4 @@
+hide the top pictrue when pull up
 # Android Design Support Library Codelab
 
 A full tutorial on how to use Android Design Support Library. (60 mins)
